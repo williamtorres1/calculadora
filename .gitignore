@@ -1,11 +1,27 @@
 # Prerequisites
 *.d
+*.i
+*.p1
 
 # Object files
 *.o
 *.ko
 *.obj
 *.elf
+*.cmf
+*.elf
+*.hex
+*.hxl
+*.lst
+*.map
+*.mum
+*.rlf
+*.sdb
+*.sym
+*.xml
+*.mk
+*.properties
+*.bash
 
 # Linker output
 *.ilk
