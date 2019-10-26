@@ -1,16 +1,24 @@
-float soma()
+int soma(int valor, int valor2)
 {
     int resultado = 0;
+    resultado = valor + valor2;
+    return resultado;
 }
-float subtracao()
+int subtracao(int valor, int valor2)
 {
     int resultado = 0;
+    resultado = valor - valor2;
+    return resultado;
 }
-float multiplicacao()
+int multiplicacao(int valor, int valor2)
 {
     int resultado = 0;
+    resultado = valor * valor2;
+    return resultado;
 }
-float divisao()
+float divisao(int valor, int valor2)
 {
-    int resultado = 0;
+    float resultado = 0;
+    resultado = valor / valor2;
+    return resultado;
 }

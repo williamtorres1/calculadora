@@ -118,7 +118,7 @@ void LCD_init(char mode1, char mode2)
 //**************************************************************************
 void LCD_pos_xy(char x, char y)
 {
-  char address;
+  char address; 
   if (y) address = LCD_SEC_LINE; else address = 0;
   address += x;
   LCD_send_byte(0,0x80|address);
