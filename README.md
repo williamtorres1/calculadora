@@ -84,3 +84,4 @@ on_clear = 4
 Zero = 8
 Igual = 12
 Mais = 16
+
