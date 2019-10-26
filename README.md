@@ -10,11 +10,11 @@ Lista de componentes necessários:
 
 4 Botões (push-button)
 
-4 Resistores 10k
+4 Resistores 10kΩ
 
-4 Resistores 1k
+4 Resistores 1kΩ
 
-1 Potenciômetro 1k
+1 Potenciômetro 1kΩ
 
 1 Teclado Matricial 3x4
 
@@ -34,3 +34,8 @@ Esta funcionalidade foi descartada, mas pode ser revista.
 
 
 Abaixo teremos algumas definições que corresponderá entre um valor inteiro e a qual tecla ela pertence.
+
+    um = 1                 dois = 5      três = 9       mais = 13
+    quatro = 2             cinco = 6     seis = 10      igual = 14
+    sete = 3               oito = 7      nove = 11      menos = 15
+    multiplicação = 4      zero = 8      divisão = 12   ON/CLEAR = 16
