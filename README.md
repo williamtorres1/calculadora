@@ -1,12 +1,12 @@
 Calculadora digital com teclado e LCD.
 
 Lista de componentes:
-1 - PIC18F4520
-2 - KEYPAD-CALCULATOR
-3 - WIRES
-4 - 10 RESITORS
-5 - POWER
-6 - LCD ALFANUMÉRICO (LM016L)
+PIC18F4520
+KEYPAD-CALCULATOR
+WIRES
+10 RESISTORS
+POWER
+LCD ALFANUMÉRICO (LM016L)
 
 
 O projeto apresentará uma Calculadora digital, que terão as seguintes funções matemáticas:
@@ -14,14 +14,6 @@ O projeto apresentará uma Calculadora digital, que terão as seguintes funçõe
 2 - Subtração(-)
 3 - Multiplicação(*)
 4 - Divisão(/)
-5 - Porcentagem(%)
-6 - Raiz Quadrada(v)
-7 - Potência(MRC)
-8 - pi(M-)
-9 - Fatorial(M+)
-10 - inversão de sinal(+/-)
-
-Substituiremos as teclas MRC, M- e M+ para outras operações, porque sentimos essa necessidade de possuir estas funções em uma calculadora digital.
 
 BOTÃO PRESSIONADO = AZUL = 1
 BOTÃO ABERTO = VERMELHO = 0
