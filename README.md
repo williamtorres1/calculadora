@@ -6,7 +6,7 @@ A calculadora realizará somente as operações básicas, que são: Adição (+)
 
 Lista de componentes necessários:
               
-    1 Microcontrolador PICF4520
+    1 Microcontrolador PIC18F4520
     4 Botões (push-button)
     4 Resistores 10kΩ
     4 Resistores 1kΩ
